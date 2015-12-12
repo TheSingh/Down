@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Down</string>
+    <string name="action_settings">Settings</string>
+    <string name="Next">Next</string>
+    <string name="mainMenuNextButton">Next</string>
+    <string name="title_activity_main_activity_second_screen">MainActivitySecondScreen</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main_activity_screen_two">MainActivityScreenTwo</string>
+    <string name="title_activity_check_login">CheckLoginActivity</string>
+    <string name="title_activity_recieved">RecievedActivity</string>
+    <string name="title_activity_expanded_event">ExpandedEvent</string>
+    <string name="title_activity_expanded_recieved_event">ExpandedRecievedEvent</string>
+
+</resources>

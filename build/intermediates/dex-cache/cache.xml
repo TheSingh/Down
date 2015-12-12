@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Robin\AndroidStudioProjects\CMPS-115-Down-\app\build\intermediates\exploded-aar\com.parse\parseui-widget-android\0.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="76d7e619a84e1c57ad7b153ba84b1213f8ff9ef1">
+        <dex dex="C:\Users\Robin\AndroidStudioProjects\CMPS-115-Down-\app\build\intermediates\pre-dexed\debug\classes-3018ab78a454bae3a3a4a27cbf708a3e268c3d32.jar" />
+    </item>
+    <item
+        jar="C:\Users\Robin\AndroidStudioProjects\CMPS-115-Down-\app\build\intermediates\exploded-aar\com.parse\parseui-login-android\0.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a2c63ab232bd2c7b750e74794015c8b09aca351">
+        <dex dex="C:\Users\Robin\AndroidStudioProjects\CMPS-115-Down-\app\build\intermediates\pre-dexed\debug\classes-d9efd1c836c6a5d09b5d5d919ff8c65db28cb1f0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Robin\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.1\44780c2cf98f6a3cf4e77f1234d644758b329201\bolts-android-1.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44780c2cf98f6a3cf4e77f1234d644758b329201">
+        <dex dex="C:\Users\Robin\AndroidStudioProjects\CMPS-115-Down-\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.1-6f3df4eb8b2de78e8ac3f947ae8d3a857a5cfc9e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Robin\AndroidStudioProjects\CMPS-115-Down-\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Robin\AndroidStudioProjects\CMPS-115-Down-\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-a3b7ddd6843b61be4b24d5d265b087275fe64148.jar" />
+    </item>
+    <item
+        jar="C:\Users\Robin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Robin\AndroidStudioProjects\CMPS-115-Down-\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-240d9a22de9d46c9615117dd0a95b0ec500f7f1a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Robin\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.10.3\36366e460af2c0f224bb8f70b64e3302f638b138\parse-android-1.10.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="36366e460af2c0f224bb8f70b64e3302f638b138">
+        <dex dex="C:\Users\Robin\AndroidStudioProjects\CMPS-115-Down-\app\build\intermediates\pre-dexed\debug\parse-android-1.10.3-f62afd61c3e7ee89789d0a38fe15d8bf2d85044a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Robin\AndroidStudioProjects\CMPS-115-Down-\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Robin\AndroidStudioProjects\CMPS-115-Down-\app\build\intermediates\pre-dexed\debug\classes-e8019e07cc54f14787b9a70c7dffdd94ffd418ee.jar" />
+    </item>
+
+</items>

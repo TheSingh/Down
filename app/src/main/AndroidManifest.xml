@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lou.down" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".LoginClass"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity android:name=".secondActivity" />
+        <activity android:name=".thirdActivity" />
+        <activity
+            android:name=".MainActivityScreenTwo"
+            android:label="Down"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SignUpActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".CheckLoginActivity"
+            android:label="Down" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".RecievedActivity"
+            android:label="@string/title_activity_recieved" />
+        <activity
+            android:name=".ExpandedEvent"
+            android:label="@string/title_activity_expanded_event" >
+        </activity>
+        <activity
+            android:name=".ExpandedRecievedEvent"
+            android:label="@string/title_activity_expanded_recieved_event" >
+        </activity>
+    </application>
+
+</manifest>
