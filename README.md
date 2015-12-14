@@ -11,13 +11,12 @@ This project was dropped when Google announced an app called "Who's Down?" that 
 
 
 Current Features implemented:
-'''
-     Working GUI for each task.
-     Create an event, and save it on the cloud server.
-     Invite other users to that event.
-     Fetch the list of events you've created from the server and display them.
-     Fetch the list of events you've been invited to and display them in order of invitation.
-     Display events and who's been invited to each event.
-     Get notifications for events you've been invited to.
-     Accept/Decline events you've been invited to.
-'''
+
+     - Working GUI for each task.
+     - Create an event, and save it on the cloud server.
+     - Invite other users to that event.
+     - Fetch the list of events you've created from the server and display them.
+     - Fetch the list of events you've been invited to and display them in order of invitation.
+     - Display events and who's been invited to each event.
+     - Get notifications for events you've been invited to.
+     - Accept/Decline events you've been invited to.
